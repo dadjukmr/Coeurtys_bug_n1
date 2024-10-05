@@ -1,11 +1,6 @@
 # Coeurtys_bug_n1
 Destruction et carnage prend place dans ce monde a genoux c'est la qu'es ta place 😈
 
-</p>
-<p align="center">
-  <a href="https://github.com/dadjukmr/Coeurtys_bug_n1">
-    <img alt=Support height="300" src="https://iili.io/dP0sxmg.jpg"> 
-    </p>
 <h1 align="center">    Coeurtys_bug_n1
 </h1>
 <p align="center"> 

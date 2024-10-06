@@ -2,7 +2,7 @@
 //YouTube: @DGXeon
 //Instagram: unicorn_xeon13
 //Telegram: t.me/xeonbotinc
-//GitHub: @DGXeon
+//GitHub: @coeurtys_web
 //WhatsApp: +237695956018
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
 

@@ -1,7 +1,7 @@
 //base by DGXeon (Xeon Bot Inc.)
 //YouTube: @DGXeon
 //Instagram: unicorn_xeon13
-//Telegram: t.me/xeonbotinc
+//Telegram: t.me/coeurtys1
 //GitHub: @coeurtys_web
 //WhatsApp: +237695956018
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
@@ -13,7 +13,7 @@ const chalk = require('chalk')
 global.ownernomer = "237695956018"
 global.ownername = "COEURTYS"
 global.ytname = "YT: Xeon"
-global.socialm = "GitHub: DGXeon"
+global.socialm = "GitHub: Coeurtys_web"
 global.location = "India, Mizoram, Aizawl"
 
 global.ownernumber = '237695956018'  //creator number

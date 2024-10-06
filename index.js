@@ -2,9 +2,9 @@
 //re-upload? recode? copy code? give credit ya :)
 //YouTube: @DGXeon
 //Instagram: unicorn_xeon13
-//Telegram: t.me/xeonbotinc
-//GitHub: @DGXeon
-//WhatsApp: +916909137213
+//Telegram: t.me/coeurtys1
+//GitHub: @coeurtys_web
+//WhatsApp: +237695956018
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
 
 const {

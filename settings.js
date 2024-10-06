@@ -3,33 +3,33 @@
 //Instagram: unicorn_xeon13
 //Telegram: t.me/xeonbotinc
 //GitHub: @DGXeon
-//WhatsApp: +916909137213
+//WhatsApp: +237695956018
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
 
 const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "916909137213"
-global.ownername = "🦄Dream Guy Xeon"
+global.ownernomer = "237695956018"
+global.ownername = "COEURTYS"
 global.ytname = "YT: Xeon"
 global.socialm = "GitHub: DGXeon"
 global.location = "India, Mizoram, Aizawl"
 
-global.ownernumber = '916909137213'  //creator number
-global.ownername = '🦄Dream Guy Xeon' //owner name
-global.botname = 'ˣᵉᵒⁿ ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
+global.ownernumber = '237695956018'  //creator number
+global.ownername = 'COEURTYS' //owner name
+global.botname = 'COEURTYS_MD_N1' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = '🦄DGXeon\n\nContact: +916909137213'
+global.author = 'COEURTYS\n\nContact: +237695956018'
 
 //console view/theme
 global.themeemoji = '🪀'
 global.wm = "Xeon Bot Inc."
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20'
+global.link = 'https://chat.whatsapp.com/JC5r5Jk9PEe2D4Rrm3aqub'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']

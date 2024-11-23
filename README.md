@@ -1,11 +1,11 @@
-# Coeurtys_bug_n1
+# Coeurtys tech 🌹 
 Destruction et carnage prend place dans ce monde a genoux c'est la qu'es ta place 😈
 
-<h1 align="center">    Coeurtys_bug_n1
+<h1 align="center">    Coeurtys tech 🌹 
 </h1>
 <p align="center"> 
   
-<p align="center"> A Whatsapp Bot done by Coeurtys_Leonidas
+<p align="center"> A Whatsapp Bot done by leonidas-tech🌹
  
   </a>
 </p>
